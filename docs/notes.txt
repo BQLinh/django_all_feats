@@ -1,0 +1,4 @@
+*** Commands
+django-admin startproject $name
+
+`python manage.py startapp
